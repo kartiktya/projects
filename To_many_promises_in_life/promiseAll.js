@@ -37,6 +37,5 @@ const promise2 = new Promise((resolve,reject)=>{
 Promise.all([promise1,promise2]);
 
 
-
 //createPost().then(updateLastActivityTime);
 //updateLastActivityTime();
